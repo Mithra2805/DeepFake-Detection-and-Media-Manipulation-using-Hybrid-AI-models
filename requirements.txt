@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+torch
+torchvision
+torchaudio
+librosa
+moviepy
+scikit-learn
+Pillow
